@@ -1,5 +1,9 @@
 Instrucciones de Compilación y Ejecución:
 
+Autores: 
+   Arizmendi López Alexis de Jesús - 318176110
+   Alexis Coca Pintor - 316333892
+
 Requisitos:
 1) Tener instalado Python 3.
 2) Tener installados los siguientes módulos de python:
